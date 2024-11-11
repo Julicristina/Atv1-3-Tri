@@ -1,0 +1,8 @@
+const url = {
+        "Alhaitam": 1000,
+        "Wriothesley": 950,
+        "Arataki Itto": 900,
+        "Scaramouche": 850,
+        "Kinich": 800,
+        "Neuvillette": 750
+    }
